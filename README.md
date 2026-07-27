@@ -2,7 +2,7 @@
 
 DevOps Engineer!
 
-I write posts on some advanced IT topics on my [website](https://abdullah.solutions).
+I write posts on some advanced IT topics on my [website](https://abdullah.support).
 You can find some useful video tutorials on my [YouTube](https://youtube.com/AbdullahToday).
 
 # &#x1f4c8; GitHub Stats
